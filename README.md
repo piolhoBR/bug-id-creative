@@ -6,5 +6,5 @@ Basicamente fiz uma verificação, que cria uma condição de checkagem da `stea
 Dependendo da sua base, talvez seja necessário realizar a troca de algumas funções e até mesmo adaptações no `prepare` da função.
 
 Créditos:
-- Gustavo Pessoa (encontrar onde estava sendo executado a falha)
-- Jhonny Walker (resolver a falha via server)
+- Gustavo Pessoa (encontrar onde estava sendo executado o exploit)
+- Jhonny Walker (resolver o exploit via server)
