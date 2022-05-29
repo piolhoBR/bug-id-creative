@@ -10,6 +10,7 @@ function cRP.characterChosen(user_id)
             -- print("Logou normalmente")
         else
             vRP.execute("banneds/insertBanned",{ steam = steam, days = 999 })
+            DropPlayer(source, "[BANIDO] HOJE NÃO!")
             -- print("Usuário malicioso")
         end
     end
